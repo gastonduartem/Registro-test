@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/paciente/:uuid",
+        "destination": "/paciente.html"
+      }
+    ]
+  }
+  
